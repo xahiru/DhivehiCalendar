@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, GViewTestActivity!</string>
+    <string name="app_name">GViewTest</string>
+    <string name="sun">sun</string>
+    <string name="mon">mon</string>
+    <string name="tues">tues</string>
+    <string name="wed">wed</string>
+    <string name="thurs">thurs</string>
+    <string name="fri">fri</string>
+    <string name="sat">sat</string>
+
+</resources>
